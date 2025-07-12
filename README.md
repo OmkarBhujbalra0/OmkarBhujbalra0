@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Omkar! 👋
 
-<!--
-**OmkarBhujbalra0/OmkarBhujbalra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student passionate about backend development and building practical solutions with Python.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages & Frameworks:** Python, Flask
+- **Database:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- [BasicLibraryAPI](https://github.com/OmkarBhujbalra0/BasicLibraryAPI)  
+  A simple API for managing library resources using Flask and MySQL.
+
+- [PyProjects](https://github.com/OmkarBhujbalra0/PyProjects)  
+  A collection of Python mini-projects.
+
+## 📚 About Me
+Currently learning and experimenting with modern backend technologies.
+Always open to collaboration and learning opportunities.
+
+
