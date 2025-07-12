@@ -14,7 +14,7 @@ Student passionate about Data Analytics/Science and building practical solutions
   A collection of Python mini-projects.
 
 ## 📚 About Me
-Currently learning and experimenting with modern backend technologies.
+Currently learning and experimenting with data analytics.
 Always open to collaboration and learning opportunities.
 
 
