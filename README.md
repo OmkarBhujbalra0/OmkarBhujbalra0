@@ -1,6 +1,6 @@
 # Hi there, I'm Omkar! 👋
 
-Student passionate about backend development and building practical solutions with Python.
+Student passionate about Data Analytics/Science and building practical solutions with Python.
 
 ## 🚀 Skills
 - **Languages & Frameworks:** Python, Flask
