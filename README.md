@@ -1,6 +1,9 @@
 # Hi there, I'm Omkar! 👋
 
-Student passionate about Data Analytics/Science and building practical solutions with Python.
+I'm an Computer Engineering Student just passed out with Bachelor of Engineering Degree,passionate in Data Analytics and extracting insight from data.
+
+![](https://komarev.com/ghpvc/?username=OmkarBhujbalra0&color=blue)
+
 
 ## 🚀 Skills
 - **Languages & Frameworks:** Python, Flask
