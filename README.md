@@ -8,6 +8,7 @@ I'm an Computer Engineering Student just passed out with Bachelor of Engineering
 ## 🚀 Skills
 - **Languages & Frameworks:** Python, Flask
 - **Database:** MySQL
+- **Libraries:** Pandas, SQLAlchemy, Matplotlib, Numpy, Seaborn 
 
 ## 🛠️ Projects
 - [BasicLibraryAPI](https://github.com/OmkarBhujbalra0/BasicLibraryAPI)  
