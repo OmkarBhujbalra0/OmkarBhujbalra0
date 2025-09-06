@@ -23,7 +23,7 @@ I'm an Computer Engineering Student just passed out with Bachelor of Engineering
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🛠️ Projects
 - [BasicLibraryAPI](https://github.com/OmkarBhujbalra0/BasicLibraryAPI)  
