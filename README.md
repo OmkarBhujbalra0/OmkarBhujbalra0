@@ -11,13 +11,11 @@ I'm an Computer Engineering Student just passed out with Bachelor of Engineering
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 - **Database:**
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 - **Libraries:**
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white)
 - **Tools:**
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -26,11 +24,11 @@ I'm an Computer Engineering Student just passed out with Bachelor of Engineering
   ![Docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🛠️ Projects
-- [BasicLibraryAPI](https://github.com/OmkarBhujbalra0/BasicLibraryAPI)  
-  A simple API for managing library resources using Flask and MySQL.
+- [Retail Sales Analysis](https://github.com/OmkarBhujbalra0/Retail_Sales_Dashboard) 
+  This project consists of Sql-based Analysis to identify the key revenue drivers.
 
-- [PyProjects](https://github.com/OmkarBhujbalra0/PyProjects)  
-  A collection of Python mini-projects.
+- [Pokemon Dataset Extraction](https://github.com/OmkarBhujbalra0/Pokemon-Dataset) 
+  This project consists of extracting data from PokeAPI and organizing it into a dataset.
 
 ## 📚 About Me
 Currently learning and experimenting with data analytics.
