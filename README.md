@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Omkar Bhujbalrao
+# Hi, I'm Omkar Bhujbalrao
 
-## 📊 Data Analyst | Python | SQL | Power BI
+## Data Analyst | Python | SQL | Power BI
 
 I am a Data Analyst passionate about transforming raw data into meaningful insights.  
 I work on end-to-end analytics workflows — from data cleaning and exploratory analysis to visualization and dashboard development.
@@ -78,11 +78,9 @@ I focus on:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmkarBhujbalra0&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-(Replace `YOUR_USERNAME` with your actual GitHub username.)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBhujbalra0&layout=compact)
 
 ---
 
@@ -91,7 +89,3 @@ I focus on:
 To work as a Data Analyst where I can leverage data to drive business decisions, build scalable analytical solutions, and continuously improve my statistical and problem-solving skills.
 
 ---
-
-## 📫 Connect With Me
-- LinkedIn: (Add your LinkedIn URL)
-- Email: (Add your professional email)
