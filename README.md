@@ -16,7 +16,7 @@ I focus on:
 
 ## Featured Projects
 
-### 1️ Customer Churn Analysis
+### 1. Customer Churn Analysis
 - Performed in-depth exploratory data analysis to identify churn drivers.
 - Used Python (Pandas, NumPy, Seaborn) for statistical analysis and visualization.
 - Identified key behavioral and demographic factors influencing churn.
@@ -28,7 +28,7 @@ I focus on:
 
 ---
 
-### 2️ Pokémon Power Analysis + Dashboard
+### 2. Pokémon Power Analysis + Dashboard
 - Analyzed generational power trends and performance distributions.
 - Studied offensive vs defensive specialization using statistical measures.
 - Evaluated design bias across generations.
@@ -40,7 +40,7 @@ I focus on:
 
 ---
 
-### 3️ Retail Sales Analysis + Dashboard
+### 3. Retail Sales Analysis + Dashboard
 - Analyzed sales trends, product performance, and revenue patterns.
 - Identified top-performing categories and seasonal effects.
 - Built Power BI dashboard for KPI monitoring.
