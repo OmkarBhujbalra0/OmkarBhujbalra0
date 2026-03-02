@@ -22,6 +22,8 @@ I focus on:
 - Identified key behavioral and demographic factors influencing churn.
 - Provided actionable recommendations to improve customer retention.
 
+#### Check Out: https://github.com/OmkarBhujbalra0/CustomerChurn
+
 **Tech Used:** Python, Pandas, NumPy, Seaborn, Matplotlib
 
 ---
@@ -31,6 +33,8 @@ I focus on:
 - Studied offensive vs defensive specialization using statistical measures.
 - Evaluated design bias across generations.
 - Built an interactive Power BI dashboard to visualize insights.
+
+#### Check Out: https://github.com/OmkarBhujbalra0/Pokemon-Strength-Analysis
 
 **Tech Used:** Python, MySQL, Power BI, Pandas, Matplotlib
 
@@ -42,25 +46,27 @@ I focus on:
 - Built Power BI dashboard for KPI monitoring.
 - Used SQL for data aggregation and reporting.
 
+#### Check Out: https://github.com/OmkarBhujbalra0/Retail_Sales_Dashboard
+
 **Tech Used:** Python, MySQL, Power BI, Excel
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-### 💻 Languages
+### Languages
 - Python  
 - MySQL  
 - HTML  
 
-### 📊 Tools
+### Tools
 - Power BI  
 - Excel  
 - Flask  
 - Docker  
 - Canva  
 
-### 📚 Libraries
+### Libraries
 - NumPy  
 - Pandas  
 - Matplotlib  
@@ -73,19 +79,5 @@ I focus on:
 - Python (Basic) – HackerRank  
 - SQL (Basic) – HackerRank  
 - Postman API Fundamentals Expert  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmkarBhujbalra0&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBhujbalra0&layout=compact)
-
----
-
-## 🎯 Career Objective
-
-To work as a Data Analyst where I can leverage data to drive business decisions, build scalable analytical solutions, and continuously improve my statistical and problem-solving skills.
 
 ---
