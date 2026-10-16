@@ -3,7 +3,7 @@
 <h2 data-importer="text" align="center">Python Developer</h2>
 
 <h2 data-importer="text" align="center">I code with</h2>
-###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
