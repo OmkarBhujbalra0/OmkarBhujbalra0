@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Omkar Bhujbalrao</h1>
+<h1 data-importer="text" align="center">Government Name</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left"> I have done my Bachelor's Degree in Computer Engineering.<br> Core Concepts: Computer Networks, DBMS<br> Also uploaded dataset on Kaggle, which is downloaded by more than 700 people and got Bronze Medal.<br> Worked on data related projects before.</p>
+<p data-importer="text" align="center">I have done my Bachelor's Degree in Computer Engineering.<br>Core Concepts: Computer Networks, DBMS<br>Also uploaded dataset on Kaggle, which is downloaded by more than 700 people and got Bronze Medal.<br>Worked on data related projects before.</p>
 
 ###
 
